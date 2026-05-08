@@ -24,9 +24,9 @@ async def fetch_patents():
         page = await browser.new_page()
         
         print("Fetching patents from Google Patents...")
-        await page.goto(PATENTS_URL, wait_until="networkidle")
+        await page.goto(PATENTS_URL, wait_until="domcontentloaded", timeout=60000)
         
-        await page.wait_for_selector("search-result-item, .patent-result, article", timeout=30000)
+        await page.wait_for_selector("search-result-item, .patent-result, article", timeout=60000)
         
         patents = []
         page_num = 1
@@ -56,18 +56,25 @@ async def fetch_patents():
                     print(f"Error extracting patent: {e}")
                     continue
             
-            next_button = await page.query_selector("button[aria-label*='Next'], a[aria-label*='Next'], .next-page, [data-page='next']")
-            if not next_button:
-                next_button = await page.query_selector("button:has-text('Next'), a:has-text('Next'), button:has-text('>'), a:has-text('>')")
-            
-            if next_button:
-                is_disabled = await next_button.get_attribute("disabled")
-                if is_disabled:
+            try:
+                next_button = await page.query_selector("button[aria-label*='Next'], a[aria-label*='Next'], .next-page, [data-page='next']")
+                if not next_button:
+                    next_button = await page.query_selector("button:has-text('Next'), a:has-text('Next'), button:has-text('>'), a:has-text('>')")
+                
+                if next_button:
+                    is_disabled = await next_button.get_attribute("disabled")
+                    is_visible = await next_button.is_visible()
+                    if is_disabled or not is_visible:
+                        print("No more pages available.")
+                        break
+                    await next_button.click(timeout=10000)
+                    page_num += 1
+                    await page.wait_for_timeout(3000)
+                else:
+                    print("Next button not found.")
                     break
-                await next_button.click()
-                page_num += 1
-                await page.wait_for_timeout(2000)
-            else:
+            except Exception as e:
+                print(f"Navigation error: {e}")
                 break
             
             if page_num > 50:

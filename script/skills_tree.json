@@ -1,0 +1,304 @@
+{
+  "summary": {
+    "total_patents_analyzed": 20,
+    "software_tools_found": 3,
+    "tech_skills_found": 10
+  },
+  "design_software": [
+    {
+      "name": "ZEMAX",
+      "count": 18,
+      "level": "精通",
+      "patents": [
+        {
+          "patent_id": "推断",
+          "title": "光学系统设计: Laser radar system and laser scanning control meth"
+        },
+        {
+          "patent_id": "推断",
+          "title": "光学系统设计: Laser radar ranging device and laser scanning cont"
+        },
+        {
+          "patent_id": "推断",
+          "title": "光学系统设计: Optical scanning device and lidar"
+        }
+      ]
+    },
+    {
+      "name": "SolidWorks",
+      "count": 16,
+      "level": "精通",
+      "patents": [
+        {
+          "patent_id": "推断",
+          "title": "机械结构设计: Laser radar system and laser scanning control meth"
+        },
+        {
+          "patent_id": "推断",
+          "title": "机械结构设计: Laser radar ranging device and laser scanning cont"
+        },
+        {
+          "patent_id": "推断",
+          "title": "机械结构设计: Optical scanning device and lidar"
+        }
+      ]
+    },
+    {
+      "name": "LightTools",
+      "count": 1,
+      "level": "了解",
+      "patents": [
+        {
+          "patent_id": "推断",
+          "title": "照明与投影系统设计: A large area projection lithography system"
+        }
+      ]
+    }
+  ],
+  "technical_skills": [
+    {
+      "name": "激光技术",
+      "count": 16,
+      "level": "精通",
+      "patents": [
+        {
+          "patent_id": "CN110161517B",
+          "title": "Laser radar system and laser scanning control method"
+        },
+        {
+          "patent_id": "CN110161516B",
+          "title": "Laser radar ranging device and laser scanning control method"
+        },
+        {
+          "patent_id": "CN112689786B",
+          "title": "Optical scanning device and lidar"
+        }
+      ]
+    },
+    {
+      "name": "三维建模",
+      "count": 7,
+      "level": "熟练",
+      "patents": [
+        {
+          "patent_id": "CN110161517B",
+          "title": "Laser radar system and laser scanning control method"
+        },
+        {
+          "patent_id": "CN110161516B",
+          "title": "Laser radar ranging device and laser scanning control method"
+        },
+        {
+          "patent_id": "CN112689786B",
+          "title": "Optical scanning device and lidar"
+        }
+      ]
+    },
+    {
+      "name": "信号处理",
+      "count": 6,
+      "level": "熟练",
+      "patents": [
+        {
+          "patent_id": "CN110161517B",
+          "title": "Laser radar system and laser scanning control method"
+        },
+        {
+          "patent_id": "CN110161516B",
+          "title": "Laser radar ranging device and laser scanning control method"
+        },
+        {
+          "patent_id": "CN110007312A",
+          "title": "Laser radar system and its control method"
+        }
+      ]
+    },
+    {
+      "name": "机械设计",
+      "count": 6,
+      "level": "熟练",
+      "patents": [
+        {
+          "patent_id": "CN112689786B",
+          "title": "Optical scanning device and lidar"
+        },
+        {
+          "patent_id": "CN210038328U",
+          "title": "Optical scanning device and laser radar"
+        },
+        {
+          "patent_id": "CN210690806U",
+          "title": "Laser radar receiving system"
+        }
+      ]
+    },
+    {
+      "name": "光学设计",
+      "count": 6,
+      "level": "熟练",
+      "patents": [
+        {
+          "patent_id": "WO2021016801A1",
+          "title": "Receiving optical system, laser light receiving module, laser radar, and light …"
+        },
+        {
+          "patent_id": "CN109975785A",
+          "title": "Optical signal reception system, method and laser radar"
+        },
+        {
+          "patent_id": "CN203963809U",
+          "title": "A kind of LED is the desk lamp light-distribution lens of light source"
+        }
+      ]
+    },
+    {
+      "name": "光路设计",
+      "count": 5,
+      "level": "熟练",
+      "patents": [
+        {
+          "patent_id": "CN110161517B",
+          "title": "Laser radar system and laser scanning control method"
+        },
+        {
+          "patent_id": "CN110161516B",
+          "title": "Laser radar ranging device and laser scanning control method"
+        },
+        {
+          "patent_id": "CN112689786B",
+          "title": "Optical scanning device and lidar"
+        }
+      ]
+    },
+    {
+      "name": "光学系统",
+      "count": 5,
+      "level": "熟练",
+      "patents": [
+        {
+          "patent_id": "CN110161516B",
+          "title": "Laser radar ranging device and laser scanning control method"
+        },
+        {
+          "patent_id": "WO2021016801A1",
+          "title": "Receiving optical system, laser light receiving module, laser radar, and light …"
+        },
+        {
+          "patent_id": "CN109946678A",
+          "title": "Laser radar emission system and method"
+        }
+      ]
+    },
+    {
+      "name": "光谱分析",
+      "count": 3,
+      "level": "了解",
+      "patents": [
+        {
+          "patent_id": "CN110161516B",
+          "title": "Laser radar ranging device and laser scanning control method"
+        },
+        {
+          "patent_id": "CN110007314A",
+          "title": "Light beam splitting die group, laser radar system and its control method"
+        },
+        {
+          "patent_id": "CN210690803U",
+          "title": "Laser radar system"
+        }
+      ]
+    },
+    {
+      "name": "精密测量",
+      "count": 2,
+      "level": "了解",
+      "patents": [
+        {
+          "patent_id": "CN110161516B",
+          "title": "Laser radar ranging device and laser scanning control method"
+        },
+        {
+          "patent_id": "CN115808672A",
+          "title": "Coupling method of dToF lidar ranging core"
+        }
+      ]
+    },
+    {
+      "name": "光电子",
+      "count": 1,
+      "level": "了解",
+      "patents": [
+        {
+          "patent_id": "CN109975785A",
+          "title": "Optical signal reception system, method and laser radar"
+        }
+      ]
+    }
+  ],
+  "skill_tree": {
+    "设计软件工具": {
+      "光学设计软件": [
+        {
+          "name": "ZEMAX",
+          "count": 18,
+          "level": "精通"
+        },
+        {
+          "name": "LightTools",
+          "count": 1,
+          "level": "了解"
+        }
+      ],
+      "机械设计软件": [
+        {
+          "name": "SolidWorks",
+          "count": 16,
+          "level": "精通"
+        }
+      ]
+    },
+    "技术领域": {
+      "激光技术": {
+        "count": 16,
+        "level": "精通"
+      },
+      "三维建模": {
+        "count": 7,
+        "level": "熟练"
+      },
+      "信号处理": {
+        "count": 6,
+        "level": "熟练"
+      },
+      "机械设计": {
+        "count": 6,
+        "level": "熟练"
+      },
+      "光学设计": {
+        "count": 6,
+        "level": "熟练"
+      },
+      "光路设计": {
+        "count": 5,
+        "level": "熟练"
+      },
+      "光学系统": {
+        "count": 5,
+        "level": "熟练"
+      },
+      "光谱分析": {
+        "count": 3,
+        "level": "了解"
+      },
+      "精密测量": {
+        "count": 2,
+        "level": "了解"
+      },
+      "光电子": {
+        "count": 1,
+        "level": "了解"
+      }
+    },
+    "技能分类": {}
+  }
+}
