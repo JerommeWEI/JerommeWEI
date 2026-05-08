@@ -30,15 +30,6 @@ Inventor focusing on research and development in optoelectronics, laser technolo
 - 📏 精密测量 / Precision Measurement
 - 🔧 光学器件 / Optical Devices
 
-🏢 **合作机构 / Partner Organizations**
-
-- 广东工业大学 / Guangdong University of Technology
-- 深圳市速腾聚创科技有限公司 / Shenzhen RoboSense Technology Co., Ltd.
-- 深圳市点睛创视技术有限公司 / Shenzhen Dianjing Chuangshi Technology Co., Ltd.
-- 光为科技(广州)有限公司 / Guangwei Technology (Guangzhou) Co., Ltd.
-- 清华珠三角研究院 / Tsinghua Pearl River Delta Institute
-- 优尼科(青岛)微电子有限公司 / Unique (Qingdao) Microelectronics Co., Ltd.
-
 ## 工作经历 / Experience
 
 基于专利申请单位的工作经历，涉及高校科研机构与高新技术企业的深度合作：
@@ -48,11 +39,21 @@ Inventor focusing on research and development in optoelectronics, laser technolo
 
 ## 技术栈 / Tech Stack
 
-基于专利分析的技术能力：
+**专业技术 / Professional Skills**
 
 ```
 光电子技术 | 激光技术 | 精密测量 | 光学设计 | 信号处理
 ```
+
+**编程能力 / Programming**
+
+- 🐍 **Python** - 数据分析、自动化脚本、科学计算
+- 📊 **MATLAB** - 算法开发、信号处理、仿真建模
+
+**AI应用 / AI Applications**
+
+- 🤖 熟悉AI工具在科研与工程中的应用
+- 💡 运用AI辅助文献调研、代码开发与数据分析
 
 ## 联系方式 / Contact
 
