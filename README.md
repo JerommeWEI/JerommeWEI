@@ -8,7 +8,7 @@
 
 🇨🇳 **中文**
 
-发明人，专注于光电子、激光技术、精密测量等领域的研究与开发。在多个技术领域拥有丰富的专利成果，涉及光学器件、测量系统、激光应用等方向。
+专注于光电子、激光技术、精密测量等领域的研究与开发。在多个技术领域拥有丰富的专利成果，涉及光学器件、测量系统、激光应用等方向。
 
 🇺🇸 **English**
 
@@ -50,7 +50,8 @@ Inventor focusing on research and development in optoelectronics, laser technolo
 **光学设计软件 / Optical Design Software**
 - 🔍 **ZEMAX** - 光学系统设计、成像分析（精通，18项专利应用）
 - 📐 **CodeV** - 光学镜头设计、像差分析
-- 💡 **LightTools** - 照明与投影系统设计（了解）
+- 💡 **LightTools** - 照明与投影系统设计
+- 💡 **Tracepro** - 非成像系统设计
 
 **机械设计软件 / Mechanical Design Software**
 - 🔧 **SolidWorks** - 机械结构设计、三维建模（精通，16项专利应用）
@@ -81,7 +82,7 @@ Inventor focusing on research and development in optoelectronics, laser technolo
 **AI应用 / AI Applications**
 
 **AI Agent 开发与定制**
-- 🤖 **Agent Skills 开发** - 设计并实现多个 AI Agent 人格技能包（费曼、马斯克、毛选、乔布斯等），用于特定视角的问题分析与决策支持
+- 🤖 **Agent Skills 开发** - 设计并实现多个 AI Agent 人格技能包，用于特定视角的问题分析与决策支持
 - 📚 **HSI 代码分析 Skill** - 开发高光谱成像系统代码分析快速指南，实现30-45分钟/模块的高效分析流程
 - 🔄 **深度思考工作流** - 构建 AI 辅助的深度思考记录系统，支持 Obsidian 知识管理集成
 
@@ -91,7 +92,7 @@ Inventor focusing on research and development in optoelectronics, laser technolo
 - 🎯 **文档生成与管理** - 利用 AI 自动生成技术文档、测试流程、培训材料，建立系统化知识库
 
 **AI 工具栈**
-- 🔧 **编程助手**: Cursor, Cline, Kilo, Claude Code
+- 🔧 **编程助手**: Cursor, Cline, Kilo, Trae
 - 📝 **知识管理**: Obsidian + AI 插件集成
 - 🎨 **可视化工具**: AI 辅助绘图规范（Matplotlib/Seaborn/Plotly）
 - 🤝 **工作流自动化**: Git + AI Agent 协作流程
@@ -103,5 +104,3 @@ Inventor focusing on research and development in optoelectronics, laser technolo
 - 📋 Patents: [Google Patents Profile](https://patents.google.com/?inventor=%E9%AD%8F%E5%A8%81)
 
 ---
-
-> 📝 数据来源：Google Patents | Data Source: Google Patents
