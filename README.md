@@ -13,22 +13,6 @@
 
 Focusing on research and development in optoelectronics, laser technology, and precision measurement. Has extensive patent achievements across multiple technical fields including optical devices, measurement systems, and laser applications.
 
-## 专利成果 / Patents
-
-📊 **专利统计 / Patent Statistics**
-
-| 指标 / Metric | 说明 / Description |
-|--------------|-------------------|
-| 发明人 / Inventor | Wei Wei |
-| 专利链接 / Patent Link | [Google Patents](https://patents.google.com/?inventor=%E9%AD%8F%E5%A8%81) |
-
-🏆 **主要技术领域 / Main Technical Fields**
-
-- 🔬 光电子技术 / Optoelectronics
-- ⚡ 激光技术 / Laser Technology
-- 📏 精密测量 / Precision Measurement
-- 🔧 光学器件 / Optical Devices
-
 ## 技术栈 / Tech Stack
 
 **专业技术 / Professional Skills**
@@ -40,13 +24,13 @@ Focusing on research and development in optoelectronics, laser technology, and p
 **设计软件 / Design Software**
 
 **光学设计软件 / Optical Design Software**
-- 🔍 **ZEMAX** - 光学系统设计、成像分析（精通，18项专利应用）
+- 🔍 **ZEMAX** - 光学系统设计、成像分析
 - 📐 **CodeV** - 光学镜头设计、像差分析
 - 💡 **LightTools** - 照明与投影系统设计
 - 💡 **Tracepro** - 非成像系统设计
 
 **机械设计软件 / Mechanical Design Software**
-- 🔧 **SolidWorks** - 机械结构设计、三维建模（精通，16项专利应用）
+- 🔧 **SolidWorks** - 机械结构设计、三维建模
 
 **薄膜设计软件 / Thin Film Design Software**
 - 💎 **Macleod** - 光学薄膜设计、膜系优化
