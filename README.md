@@ -43,7 +43,7 @@
 - Python · MATLAB
 
 </td>
-<td valign="top" width="48%">
+<td valign="top" width="50%">
 
 #### 🤖 AI Applications
 
