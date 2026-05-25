@@ -23,6 +23,7 @@
 
 </div>
 
+<div align="center">
 <table>
 <tr>
 <td valign="top" width="50%">
@@ -64,6 +65,7 @@
 </td>
 </tr>
 </table>
+</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Laser_Technology-80%25-blue" alt="Laser"/>
