@@ -24,9 +24,9 @@
 </div>
 
 <div align="center">
-<table style="width:100%;max-width:800px;">
+<table style="width:100%;">
 <tr>
-<td valign="top" width="50%">
+<td valign="top" style="width:50%;">
 
 #### 🔬 Professional Skills
 
@@ -43,7 +43,7 @@
 - Python · MATLAB
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" style="width:50%;">
 
 #### 🤖 AI Applications
 
