@@ -23,10 +23,9 @@
 
 </div>
 
-<div align="center">
-<table style="width:100%;">
+<table style="width:100%;" align="center">
 <tr>
-<td valign="top" style="width:50%;">
+<td valign="top" style="width:100%;">
 
 #### 🔬 Professional Skills
 
@@ -41,9 +40,11 @@
 
 **Programming**
 - Python · MATLAB
+  
+**************************************************************                                                                 
 
 </td>
-<td valign="top" style="width:50%;">
+<td valign="top" style="width:100%;">
 
 #### 🤖 AI Applications
 
@@ -65,7 +66,6 @@
 </td>
 </tr>
 </table>
-</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Laser_Technology-80%25-blue" alt="Laser"/>
