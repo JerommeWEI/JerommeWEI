@@ -25,7 +25,7 @@
 
 <table style="width:100%;" align="center">
 <tr>
-<td valign="top" style="width:100%;">
+<td valign="top" style="width:50%;">
 
 #### 🔬 Professional Skills
 
@@ -40,11 +40,9 @@
 
 **Programming**
 - Python · MATLAB
-  
-**************************************************************                                                                 
 
 </td>
-<td valign="top" style="width:100%;">
+<td valign="top" style="width:50%;">
 
 #### 🤖 AI Applications
 
