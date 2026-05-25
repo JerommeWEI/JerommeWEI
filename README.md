@@ -24,7 +24,7 @@
 </div>
 
 <div align="center">
-<table width="90%">
+<table style="width:100%;max-width:800px;">
 <tr>
 <td valign="top" width="50%">
 
